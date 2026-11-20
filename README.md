@@ -1,10 +1,13 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/288636201?v=4" width="150" alt="Starc avatar" />
+  
   <h2>
     Hi, I'm <span style="color:#F5F752;">Starc</span><br>
     China Artificial Intelligence & Robotics Journalist • Public Relations • Intelligence Analyst
   </h2>
+  
   <h4>Reporting frontier development of AI & Robotics field, including scientific research and industrial news</h4>
+  
   <p>
     <img src="https://img.shields.io/badge/AI-Research-F5F752?style=flat-square&labelColor=111827" alt="AI Research" />
     <img src="https://img.shields.io/badge/Robotics-Embodied%20Intelligence-00D4FF?style=flat-square&labelColor=111827" alt="Embodied Intelligence" />
@@ -12,11 +15,13 @@
   </p>
 </div>
 
+
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │  NEURAL SIGNAL // ROBOTICS INTELLIGENCE // FRONTIER REPORTS  │
 └──────────────────────────────────────────────────────────────┘
 ```
+
 
 ## Short Profile
 
@@ -33,7 +38,9 @@ I'm Starc, a journalist who reports frontier development of Artificial Intellige
   <sub>⌁ SENSING · LEARNING · REASONING · ACTING ⌁</sub>
 </div>
 
+
 If you are interested in me or simply seeking reports, please contact me through the following address.
+
 
 **Contacts:** [Starc3049@gmail.com](mailto:Starc3049@gmail.com) / 
 **Website:** [42HOW](https://en.42how.com/)  
