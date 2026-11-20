@@ -37,10 +37,6 @@ I'm Starc, a journalist who reports frontier development of Artificial Intellige
 - **Robotics:** Latest robotics development on Embodied Intelligence, whether it is hardware, electronics devices, vision identification.
 - **Corporations:** Corporate News,including Anthropic, OpenAI, DeepSeek, Kimi, Qwen, Robbyant, Etc.
 
-<div align="center">
-  <sub>◉ PERCEPTION · LEARNING · REASONING · ACTION ◉</sub>
-</div>
-
 
 If you are interested in me or simply seeking reports, please contact me through the following address.
 
