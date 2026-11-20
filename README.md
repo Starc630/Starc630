@@ -96,6 +96,13 @@ If you are interested in me or simply seeking reports, please contact me through
 - Crisis management and public opinion control during Bytedance - Saudi Arabia PIF Sell of Moonton Games.
 - Some of the corporate affairs.
 
+### The PAPER
+
+**Intern Journalist**  
+**Aug. 2025 - Oct. 2025**
+
+- Writing dozens of news report.
+
 ### BOKE TECH GROUP
 
 **Public Relations Intern**  
