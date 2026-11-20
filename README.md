@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/288636201?v=4" width="150" alt="Starc avatar" />
-<div align="center">
-  <img src="42HOW.png" width="150" />
+ <div align="center">
+   <img src="https://avatars.githubusercontent.com/u/288636201?v=4" width="150" alt="Starc avatar" />
+ <div align="center">
+   <img src="42HOW.png" width="150" />
   
   <h2>
     Hi, I'm <span style="color:#F5F752;">Starc</span><br>
@@ -17,8 +17,8 @@
   </p>
 </div>
 
-<div align="center">
-  <pre>
+ <div align="center">
+   <pre>
 ╭──────────────────────────────────────────────────────────╮
 │   ◉ PERCEPTION  ·  ◈ INTELLIGENCE  ·  ⚙ ROBOTICS        │
 │             SIGNALS  →  MODELS  →  MACHINES              │
