@@ -92,6 +92,8 @@ If you are interested in me or simply seeking reports, please contact me through
 
 ### BYTEDANCE(Now Savvy Games Group)/MOONTON TECHNOLOGY
 
+<img src="images.jpg" />
+
 **Public Relations Intern**  
 **Nov. 2025 - April. 2026**
 
