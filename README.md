@@ -1,6 +1,5 @@
- <div align="center">
+<div align="center">
    <img src="https://avatars.githubusercontent.com/u/288636201?v=4" width="150" alt="Starc avatar" />
- <div align="center">
    <img src="42HOW.png" width="150" />
   
   <h2>
