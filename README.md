@@ -1,11 +1,3 @@
-<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
-  <strong>Language:</strong>
-  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">Russian</a>
-  |
-  <span style="color: #0891b2; margin: 0 10px;">English current</span>
-  |
-  <a href="./README.rnd.md" style="color: #a3e635; margin: 0 10px;">R&D version</a>
-</div>
 
 <div align="center">
   <picture>
@@ -87,7 +79,7 @@ I am especially useful where a product needs an engineer who can:
 ### 42HOW
 
 **AI & Robotics Journalist**  
-**August 2026 - Now **
+**August 2026 - Now**
 
 - Reporting technology and scientific research within the field.
 
