@@ -4,7 +4,6 @@
   <h2>
     Hi, I'm <span style="color:#F5F752;">Starc</span><br>
     China Artificial Intelligence & Robotics Journalist
-           Public Relations • Intelligence Analyst
   </h2>
   
   <h4>Reporting frontier development of AI & Robotics field, including scientific research and industrial news</h4>
