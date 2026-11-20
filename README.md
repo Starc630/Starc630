@@ -55,6 +55,8 @@ If you are interested in me or simply seeking reports, please contact me through
 
 ### 42HOW
 
+<img src="42HOW.png" />
+
 **AI & Robotics Journalist**  
 **August 2026 - Now**
 
