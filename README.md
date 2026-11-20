@@ -15,13 +15,14 @@
   </p>
 </div>
 
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  NEURAL SIGNAL // ROBOTICS INTELLIGENCE // FRONTIER REPORTS  │
-└──────────────────────────────────────────────────────────────┘
-```
-
+<div align="center">
+  <pre>
+╭──────────────────────────────────────────────────────────╮
+│   ◉ PERCEPTION  ·  ◈ INTELLIGENCE  ·  ⚙ ROBOTICS        │
+│             SIGNALS  →  MODELS  →  MACHINES              │
+╰──────────────────────────────────────────────────────────╯
+  </pre>
+</div>
 
 ## Short Profile
 
@@ -35,7 +36,7 @@ I'm Starc, a journalist who reports frontier development of Artificial Intellige
 - **Corporations:** Corporate News,including Anthropic, OpenAI, DeepSeek, Kimi, Qwen, Robbyant, Etc.
 
 <div align="center">
-  <sub>⌁ SENSING · LEARNING · REASONING · ACTING ⌁</sub>
+  <sub>◉ PERCEPTION · LEARNING · REASONING · ACTION ◉</sub>
 </div>
 
 
