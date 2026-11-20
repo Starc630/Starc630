@@ -112,6 +112,8 @@ If you are interested in me or simply seeking reports, please contact me through
 
 ### BOKE TECH GROUP
 
+<img src="images (1).jpg" />
+
 **Public Relations Intern**  
 **May. 2025 - August. 2025**
 
