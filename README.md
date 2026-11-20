@@ -11,25 +11,6 @@
  
 </div>
 
-<div align="center">
-  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
-</div>
-
-<div align="center">
-  <a href="#profile">Profile</a> ·
-  <a href="#value">Value</a> ·
-  <a href="#achievements">Achievements</a> ·
-  <a href="#experience">Experience</a> ·
-  <a href="#projects">Projects</a> ·
-  <a href="#stack">Stack</a> ·
-  <a href="#fit">Roles</a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Starc630/Starc630/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
-</div>
-
-<a id="profile"></a>
 
 ## Short Profile
 
@@ -50,6 +31,7 @@ If you are interested in me or simply seeking reports, please contact me through
 **Contacts:** [Starc3049@gmail.com](mailto:Starc3049@gmail.com) / 
 **Website:** [42HOW](https://en.42how.com/)  
 **GitHub:** [github.com/Starc630](https://github.com/Starc630)  
+**Xiaohongshu:** [天马](https://xhslink.cn/o/AMVaNji5QOT)  
 
 <div align="center">
   <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
@@ -57,22 +39,7 @@ If you are interested in me or simply seeking reports, please contact me through
 
 <a id="value"></a>
 
-## Value For An Employer
 
-I am especially useful where a product needs an engineer who can:
-
-- quickly understand unfamiliar codebases, protocols, data formats, and old systems;
-- design .NET backend services, integrations, queues, databases, and admin panels;
-- build tools that save team time: analyzers, generators, converters, diff/monitoring utilities, project templates;
-- work across Windows/Linux, Docker, Jenkins, Git/SVN, PostgreSQL, RabbitMQ, Redis, and nginx;
-- lead a task from research to release: hypothesis, prototype, implementation, debugging, documentation, and support;
-- handle legacy systems, reverse engineering, C/C++, ABI, DLLs, x86, Ghidra/x32dbg/IDA-style workflows, and low-level diagnostics.
-
-<div align="center">
-  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
-</div>
-
-<a id="achievements"></a>
 
 ## Experience
 
