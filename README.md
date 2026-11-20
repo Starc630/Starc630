@@ -44,7 +44,7 @@ If you are interested in me or simply seeking reports, please contact me through
 
 **Contacts:** [Starc3049@gmail.com](mailto:Starc3049@gmail.com) / 
 **42HOW Official Website:** [42HOW](https://en.42how.com/)  /
-**GitHub:** [github.com/Starc630](https://github.com/Starc630)  
+**GitHub:** [github.com/Starc630](https://github.com/Starc630)  /
 **Xiaohongshu:** [天马](https://xhslink.cn/o/AMVaNji5QOT)  
 
 ---
