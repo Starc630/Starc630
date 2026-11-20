@@ -55,7 +55,7 @@ If you are interested in me or simply seeking reports, please contact me through
 
 ### 42HOW
 
-<img src="42HOW.png" />
+<img src="42HOW.png" width="200" />
 
 **AI & Robotics Journalist**  
 **August 2026 - Now**
@@ -82,7 +82,7 @@ If you are interested in me or simply seeking reports, please contact me through
 
 ### World Artificial Intelligence Conference of CHINA (W.A.I.C.)
 
-<img src="OIP.webp" />
+<img src="OIP.webp" width="200" />
 
 **Public Relations**  
 **June 2026 - July 2026**
@@ -92,7 +92,7 @@ If you are interested in me or simply seeking reports, please contact me through
 
 ### BYTEDANCE(Now Savvy Games Group)/MOONTON TECHNOLOGY
 
-<img src="images.jpg" />
+<img src="images.jpg" width="200" />
 
 **Public Relations Intern**  
 **Nov. 2025 - April. 2026**
@@ -103,7 +103,7 @@ If you are interested in me or simply seeking reports, please contact me through
 - Some of the corporate affairs.
 
 ### The PAPER  
-<img src="a4b21ea3b3fc78f97c54decb4d01851d.jpeg" />
+<img src="a4b21ea3b3fc78f97c54decb4d01851d.jpeg" width="200" />
 
 **Intern Journalist**  
 **Aug. 2025 - Oct. 2025**
@@ -112,7 +112,7 @@ If you are interested in me or simply seeking reports, please contact me through
 
 ### BOKE TECH GROUP
 
-<img src="images (1).jpg" />
+<img src="images (1).jpg" width="200" />
 
 **Public Relations Intern**  
 **May. 2025 - August. 2025**
@@ -130,7 +130,7 @@ If you are interested in me or simply seeking reports, please contact me through
 
 
 ### China International Import Expo Bureau(C.I.I.E.B.)
-<img src="ciie_logo.png" />
+<img src="ciie_logo.png" width="200" />
 
 **Publicity Department and 7th CIIE provincial/ministerial joint conference Intern**  
 **Oct. 2024 - Nov. 2024**
