@@ -80,6 +80,8 @@ If you are interested in me or simply seeking reports, please contact me through
 
 ### World Artificial Intelligence Conference of CHINA (W.A.I.C.)
 
+<img src="OIP.webp" />
+
 **Public Relations**  
 **June 2026 - July 2026**
 
