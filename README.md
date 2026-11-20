@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Starc630/Starc630/main/Media/avatar.jpg" width="150" alt="Starc avatar" />
+  <img src="https://avatars.githubusercontent.com/u/288636201?v=4" width="150" alt="Starc avatar" />
   <h2>
     Hi, I'm <span style="color:#F5F752;">Starc</span><br>
     China Artificial Intelligence & Robotics Journalist • Public Relations • Intelligence Analyst
