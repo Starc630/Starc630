@@ -122,6 +122,7 @@ If you are interested in me or simply seeking reports, please contact me through
 
 
 ### China International Import Expo Bureau(C.I.I.E.B.)
+<img src="ciie_logo.png" />
 
 **Publicity Department and 7th CIIE provincial/ministerial joint conference Intern**  
 **Oct. 2024 - Nov. 2024**
