@@ -96,7 +96,8 @@ If you are interested in me or simply seeking reports, please contact me through
 - Crisis management and public opinion control during Bytedance - Saudi Arabia PIF Sell of Moonton Games.
 - Some of the corporate affairs.
 
-### The PAPER
+### The PAPER  
+<img src="a4b21ea3b3fc78f97c54decb4d01851d.jpeg" />
 
 **Intern Journalist**  
 **Aug. 2025 - Oct. 2025**
