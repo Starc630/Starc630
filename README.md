@@ -1,16 +1,22 @@
-
 <div align="center">
-  <picture>
-    <img src="https://github.com/Starc630/Starc630/blob/main/Media/me.gif?raw=true" width="150px" alt="Starc">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Starc630/Starc630/main/Media/avatar.jpg" width="150" alt="Starc avatar" />
   <h2>
     Hi, I'm <span style="color:#F5F752;">Starc</span><br>
     China Artificial Intelligence & Robotics Journalist • Public Relations • Intelligence Analyst
   </h2>
-  <h4>Reporting frontier development of AI % Robotics field, including scientific research and industrial news</h4>
- 
+  <h4>Reporting frontier development of AI & Robotics field, including scientific research and industrial news</h4>
+  <p>
+    <img src="https://img.shields.io/badge/AI-Research-F5F752?style=flat-square&labelColor=111827" alt="AI Research" />
+    <img src="https://img.shields.io/badge/Robotics-Embodied%20Intelligence-00D4FF?style=flat-square&labelColor=111827" alt="Embodied Intelligence" />
+    <img src="https://img.shields.io/badge/Focus-Foundation%20Models-8B5CF6?style=flat-square&labelColor=111827" alt="Foundation Models" />
+  </p>
 </div>
 
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  NEURAL SIGNAL // ROBOTICS INTELLIGENCE // FRONTIER REPORTS  │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ## Short Profile
 
@@ -23,23 +29,20 @@ I'm Starc, a journalist who reports frontier development of Artificial Intellige
 - **Robotics:** Latest robotics development on Embodied Intelligence, whether it is hardware, electronics devices, vision identification.
 - **Corporations:** Corporate News,including Anthropic, OpenAI, DeepSeek, Kimi, Qwen, Robbyant, Etc.
 
+<div align="center">
+  <sub>⌁ SENSING · LEARNING · REASONING · ACTING ⌁</sub>
+</div>
 
 If you are interested in me or simply seeking reports, please contact me through the following address.
-
-
 
 **Contacts:** [Starc3049@gmail.com](mailto:Starc3049@gmail.com) / 
 **Website:** [42HOW](https://en.42how.com/)  
 **GitHub:** [github.com/Starc630](https://github.com/Starc630)  
 **Xiaohongshu:** [天马](https://xhslink.cn/o/AMVaNji5QOT)  
 
-<div align="center">
-  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
-</div>
+---
 
 <a id="value"></a>
-
-
 
 ## Experience
 
@@ -118,35 +121,16 @@ If you are interested in me or simply seeking reports, please contact me through
 
 - Foreign affairs under the strategic diplomatic relations between my country and Sri Lanka.
 
-<div align="center">
-  <img src="https://github.com/Starc630/Starc630/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
-</div>
+---
 
 <a id="projects"></a>
 
-
 <div align="center">
-  <img src="https://github.com/Starc630/Starc630/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+  <sub>◈ AI · ROBOTICS · SCIENCE · INDUSTRY ◈</sub>
 </div>
+
+---
 
 <a id="stack"></a>
 
-
-
-
 > 2026
-
-<!--
-**Starc630/Starc630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
