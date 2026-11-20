@@ -1,4 +1,181 @@
-## Hi there 👋
+<div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
+  <strong>Language:</strong>
+  <a href="./README.ru.md" style="color: #F5F752; margin: 0 10px;">Russian</a>
+  |
+  <span style="color: #0891b2; margin: 0 10px;">English current</span>
+  |
+  <a href="./README.rnd.md" style="color: #a3e635; margin: 0 10px;">R&D version</a>
+</div>
+
+<div align="center">
+  <picture>
+    <img src="https://github.com/Starc630/Starc630/blob/main/Media/me.gif?raw=true" width="150px" alt="Starc">
+  </picture>
+  <h2>
+    Hi, I'm <span style="color:#F5F752;">Starc</span><br>
+    China Artificial Intelligence & Robotics Journalist • Public Relations • Intelligence Analyst
+  </h2>
+  <h4>Reporting frontier development of AI % Robotics field, including scientific research and industrial news</h4>
+ 
+</div>
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<div align="center">
+  <a href="#profile">Profile</a> ·
+  <a href="#value">Value</a> ·
+  <a href="#achievements">Achievements</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#stack">Stack</a> ·
+  <a href="#fit">Roles</a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Starc630/Starc630/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<a id="profile"></a>
+
+## Short Profile
+
+Hello!
+
+I'm Starc, a journalist who reports frontier development of Artificial Intelligence, Robotics and other related technology. That also includes some of the latest scientific research and major breakthroughs within the AI industry.Since this year, I've reported several news regarding SuperMimic,PACE from Xiaomi Robotics,Robbyant's Developer Hackathon,etc. Here are several topics I pay close attention to now:
+
+- **Foundation Model:** cutting-edge foundation model training, post training, scaling, efficiency, chips, GPUs and technical bottlenecks.
+- **Scientific Scholar Research:** Works from renowned scholars within the AI and Robotics field. That includes JEPA/WAM/ICL/VLA/Agentic and Reinforcement Learning, and how they reshape the industry across China and the United States.
+- **Robotics:** Latest robotics development on Embodied Intelligence, whether it is hardware, electronics devices, vision identification.
+- **Corporations:** Corporate News,including Anthropic, OpenAI, DeepSeek, Kimi, Qwen, Robbyant, Etc.
+
+
+If you are interested in me or simply seeking reports, please contact me through the following address.
+
+
+
+**Contacts:** [Starc3049@gmail.com](mailto:Starc3049@gmail.com) / 
+**Website:** [42HOW](https://en.42how.com/)  
+**GitHub:** [github.com/Starc630](https://github.com/Starc630)  
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<a id="value"></a>
+
+## Value For An Employer
+
+I am especially useful where a product needs an engineer who can:
+
+- quickly understand unfamiliar codebases, protocols, data formats, and old systems;
+- design .NET backend services, integrations, queues, databases, and admin panels;
+- build tools that save team time: analyzers, generators, converters, diff/monitoring utilities, project templates;
+- work across Windows/Linux, Docker, Jenkins, Git/SVN, PostgreSQL, RabbitMQ, Redis, and nginx;
+- lead a task from research to release: hypothesis, prototype, implementation, debugging, documentation, and support;
+- handle legacy systems, reverse engineering, C/C++, ABI, DLLs, x86, Ghidra/x32dbg/IDA-style workflows, and low-level diagnostics.
+
+<div align="center">
+  <img src="https://github.com/Dvurechensky/Dvurechensky/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<a id="achievements"></a>
+
+## Experience
+
+### 42HOW
+
+**AI & Robotics Journalist**  
+**August 2026 - Now **
+
+- Reporting technology and scientific research within the field.
+
+## Some of My Previous Coverage
+
+| Coverage                                                                                  | Topics                                                                           | Keywords                          |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------- |
+| [The Major Breakthrough：How UC Berkeley's SuperMimic Slashes Compute for Humanoid Whole-Body Control](https://ai.42how.com/en/article/cce1b2dc-cb7e-4e9e-b262-6e03b09b2c67)             | Research                                                     | SuperMimic,Policy,Technology Breakthrough              |
+| [LingBot Embodied AI Challenge Concludes With Real-Robot Deployments in 48-Hour Hackathon](https://ai.42how.com/en/article/ba26fb6b-397a-431c-b4cc-e4f85180c85b) | Industry | LingBot,Robbyant,Developers,VLA,Hackathon      |
+| [Xiaomi Robotics Details PACE Framework for Tactile-Guided Precision Manipulation](https://ai.42how.com/en/article/25a85ba4-976b-4774-b968-27586842d199)                       | Research                              | Tactile,Xiaomi Robotics,CoRL                         |
+| [Agents Rapidly Top RoboDojo Leaderboard Over 33 Days as Benchmark Enters Adjustment Phase](https://ai.42how.com/en/article/a600bbdb-c312-463e-b1bd-82554ba26df0)                                     | Industry                   | RoboDojo,Benchmark,Agentic     |
+| [Tsinghua and UC Berkeley release uni-robot-agent framework for open-source robot control](https://ai.42how.com/en/article/a49b8c37-d876-4815-9af8-afc25eb98f2b)                            | Research                   | RUA |
+| [Shanghai Jiao Tong University and Partners Introduce UniFlowWAM, Elevating 3D Scene Flow to a Core Modality](https://ai.42how.com/en/article/aa6893c2-3e33-4c7a-b60b-3807576667ba)                             | Research               | WAM,Modality,MVIG@SJTU               |
+| [Copper-Policy Replaces Pixel Prediction With Compact Latent Representations for Robot Control](https://ai.42how.com/en/article/3d333d1d-2aa8-4e8a-bf6a-696fb54e21b7)              | Research                              | Policy,Representation            |
+| [Anthropic Files S-1 for Nasdaq IPO Amid Exponential Growth and $500 Billion Compute Commitments](https://ai.42how.com/en/article/db8ff3a5-0de1-457e-a2a8-d8f6c0db2e2d)                             | Industry                                    | Anthropic,IPO,Finance         |
+| [Nature Will Debuts Natura-1, a 50B-Parameter Embodied Foundation Model Trained on One Million Hours of Human Experience](https://ai.42how.com/en/article/25b48902-0171-4320-aa7d-405afd061d7d)           | Industry                                            | Foundation Model,Natura-1        |
+
+
+
+## Earlier Roles
+
+### World Artificial Intelligence Conference of CHINA (W.A.I.C.)
+
+**Public Relations**  
+**June 2026 - July 2026**
+
+- PR Media support for WAIC international forums
+- Foreign liason with AI Scientist, government, dignatories from international orgnization.
+
+### BYTEDANCE(Now Savvy Games Group)/MOONTON TECHNOLOGY
+
+**Public Relations Intern**  
+**Nov. 2025 - April. 2026**
+
+- PR media support for MLBB International Esport Program(M7 held in Indonesia)
+- Participated in communications with outsider with common interest, drafting materials for press report, press conferences or CEO announcements.
+- Crisis management and public opinion control during Bytedance - Saudi Arabia PIF Sell of Moonton Games.
+- Some of the corporate affairs.
+
+### BOKE TECH GROUP
+
+**Public Relations Intern**  
+**May. 2025 - August. 2025**
+
+- PR media support for 2025 CHINA JOY and "game + " Activities
+- Participated in communications with outsider with common interest, drafting materials for press report.
+- Corporate Affairs.
+
+### Foreign Affairs Office of Shanghai Municipal People's Government
+
+**Department Intern**  
+**Jan. 2025 - Feb. 2025**
+
+- Press matchmaking and materials providing during Sri Lanka President's State Visit to China.
+
+
+### China International Import Expo Bureau(C.I.I.E.B.)
+
+**Publicity Department and 7th CIIE provincial/ministerial joint conference Intern**  
+**Oct. 2024 - Nov. 2024**
+
+- Providing assistance during the 7th CIIE, that includes press matchmaking, external affairs to upper government entities.
+
+
+### Embassy of Sri Lanka to P.R.C.
+
+**Public Affairs Intern**  
+**May. 2024 - Aug. 2024**
+
+- Foreign affairs under the strategic diplomatic relations between my country and Sri Lanka.
+
+<div align="center">
+  <img src="https://github.com/Starc630/Starc630/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<a id="projects"></a>
+
+
+<div align="center">
+  <img src="https://github.com/Starc630/Starc630/blob/main/Media/arrow.png?raw=true" width="150px" alt="separator">
+</div>
+
+<a id="stack"></a>
+
+
+
+
+> 2026
 
 <!--
 **Starc630/Starc630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
