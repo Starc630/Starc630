@@ -17,13 +17,13 @@
   </p>
 </div>
 
- <div align="center">
-   <pre>
-╭──────────────────────────────────────────────────────────╮
-│   ◉ PERCEPTION  ·  ◈ INTELLIGENCE  ·  ⚙ ROBOTICS        │
-│             SIGNALS  →  MODELS  →  MACHINES              │
-╰──────────────────────────────────────────────────────────╯
-  </pre>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zero-0002/zero-0002/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zero-0002/zero-0002/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/zero-0002/zero-0002/output/bomberman-contribution-graph.svg">
+</picture>
 </div>
 
 ## Short Profile
